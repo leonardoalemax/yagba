@@ -1,0 +1,7 @@
+{
+  "name": "yagba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
