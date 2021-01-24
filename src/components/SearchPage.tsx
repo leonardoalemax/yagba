@@ -40,7 +40,6 @@ const SearchPage: React.FC<ContainerProps> = () => {
         </IonListHeader>
         {
           result.map((game) => (
-            
             <IonItemSliding>
               <IonItem>
                 <IonAvatar>
